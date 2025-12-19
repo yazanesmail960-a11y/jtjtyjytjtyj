@@ -2,6 +2,7 @@
 session_start();
 
 // --- 1. Mock Data ---
+
 $categories = [
     'all' => ['name' => 'All Departments', 'icon' => 'layout-grid'],
     'electronics' => ['name' => 'Electronics', 'icon' => 'smartphone'],
